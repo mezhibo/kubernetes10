@@ -47,3 +47,52 @@
 
 
 
+
+**Задание 2. Запустить две версии в разных неймспейсах**
+
+1. Подготовив чарт, необходимо его проверить. Запуститe несколько копий приложения.
+
+2. Одну версию в namespace=app1, вторую версию в том же неймспейсе, третью версию в namespace=app2.
+
+3. Продемонстрируйте результат.
+
+
+
+
+**Решение 2**
+
+
+Проверка
+
+
+![Image alt]((https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/6.jpg))
+
+
+![Image alt]((https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/7.jpg))
+
+
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/8.jpg))
+
+
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/9.jpg)
+
+
+Запустим несколько версий приложения
+
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/10.jpg)
+
+
+Удалим наш helm demo чтобы потом создать новый в namespace из условия задачи
+
+
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/11.jpg)
+
+
+Создаем helm по заданию в п.2
+
+
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/12.jpg)
+
+
+
+
