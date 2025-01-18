@@ -65,13 +65,13 @@
 Проверка
 
 
-![Image alt]((https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/6.jpg))
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/b11a524751fc3f8ca045e25569e11f0cee48b61a/IMG/6.jpg)
 
 
-![Image alt]((https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/7.jpg))
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/b11a524751fc3f8ca045e25569e11f0cee48b61a/IMG/7.jpg)
 
 
-![Image alt](https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/8.jpg))
+![Image alt](https://github.com/mezhibo/kubernetes10/blob/b11a524751fc3f8ca045e25569e11f0cee48b61a/IMG/8.jpg)
 
 
 ![Image alt](https://github.com/mezhibo/kubernetes10/blob/0ebbb2c6f1801e9684d26cf54da03ce20596853e/IMG/9.jpg)
